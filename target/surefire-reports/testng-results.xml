@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-17T12:39:40 IST" name="HMS.admin.testcases.TestFrontOffice" finished-at="2021-02-17T12:40:21 IST" duration-ms="41357">
+    <groups>
+    </groups>
+    <test started-at="2021-02-17T12:39:40 IST" name="Command line test" finished-at="2021-02-17T12:40:21 IST" duration-ms="41357">
+      <class name="HMS.admin.testcases.TestFrontOffice">
+        <test-method signature="startup()[pri:0, instance:HMS.admin.testcases.TestFrontOffice@72057ecf]" started-at="2021-02-17T12:39:40 IST" name="startup" finished-at="2021-02-17T12:40:21 IST" duration-ms="41276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+      </class> <!-- HMS.admin.testcases.TestFrontOffice -->
+    </test> <!-- Command line test -->
+  </suite> <!-- HMS.admin.testcases.TestFrontOffice -->
+</testng-results>

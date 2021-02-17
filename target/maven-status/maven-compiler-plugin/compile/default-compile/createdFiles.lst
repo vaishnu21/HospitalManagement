@@ -1,0 +1,9 @@
+HMS\pages\loginpage.class
+HMS\util\ReadExcel.class
+HMS\base\testbase.class
+HMS\pages\FrontOffice.class
+HMS\pages\addvisitorpage.class
+HMS\pages\homepage.class
+HMS\util\CommonUtility.class
+HMS\util\DatePicker.class
+HMS\util\WebEventListener.class
